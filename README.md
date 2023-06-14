@@ -1,6 +1,30 @@
 <h1 align="center">Hi 👋, I'm Jakkapan</h1>
 <h3 align="center">I'm a software developer with a passion for problem-solving and continuous learning. I'm always interested in exploring new technologies and programming languages, and I love applying what I've learned to create innovative and efficient solutions.
 </h3>
+
+<hr>
+<br>
+<h3 align="left">My GitHub Stats:</h3>
+<div>
+
+</div>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=jakkapan-a&show_icons=true&theme=radical" alt="jakkapan-a"/>
+    <a href="https://github.com/jakkapan-a">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakkapan-a&hide=html,css&&text_color=c9cacc&theme=radical" />
+    </a>
+</p>
+
+
+
+<p  align="Right">
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakkapan-a&hide=html,css&layout=compact&theme=radical" alt="jakkapan-a"/> -->
+
+</p>
+<p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakkapan-a&theme=radical" alt="jakkapan-a"/>
+</p>
+
 <!-- Line -->
 <hr>
 <br>
@@ -9,7 +33,6 @@
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
     </a> 
-    <!-- https://cdn.worldvectorlogo.com/logos/c--4.svg -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
@@ -39,21 +62,6 @@
     </a> 
 </p>
 
-<hr>
-<br>
-<h3 align="left">My GitHub Stats:</h3>
-<div>
-
-</div>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=jakkapan-a&show_icons=true&theme=radical" alt="jakkapan-a"/>
-</p>
-<p  align="Right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakkapan-a&layout=compact&theme=radical" alt="jakkapan-a"/>
-</p>
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakkapan-a&theme=radical" alt="jakkapan-a"/>
-</p>
 <hr>
 <br>
 <h3 align="left">Connect with me:</h3>
