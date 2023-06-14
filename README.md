@@ -59,7 +59,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/jakkapan-pongkam-9b1b3a1b2/" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/jakkapan-at" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <!-- Github -->
