@@ -83,16 +83,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jakkapan-a&show_icons=true&theme=radical" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakkapan-a&hide=html,css&layout=compact&text_color=c9cacc&theme=radical" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.meklink.com/api?username=Jakkapan-a&show_icons=true&theme=radical" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.meklink.com/api/top-langs/?username=Jakkapan-a&hide=html,css&layout=compact&text_color=c9cacc&theme=radical" alt="Top languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakkapan-a&theme=radical" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jakkapan-a&theme=radical&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
+<img src="https://streak-stats.demolab.com/?user=jakkapan-a&theme=radical" alt="GitHub streak"/>
 
 </div>
 
