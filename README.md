@@ -17,7 +17,7 @@
 
 - 🔭 I'm a **software developer** who enjoys turning ideas into reliable, working software.
 - 🌱 Always exploring **new technologies and programming languages** — and applying them to build innovative, efficient solutions.
-- 💡 I love **solving problems** — from low-level hardware (Arduino / Raspberry Pi) up to web and backend systems.
+- 💡 Focused on **designing infrastructure and application architecture** — building scalable **full-stack** systems with **ASP.NET, C#, Next.js, PostgreSQL**, and **High Availability (HA)** patterns.
 - 🎯 Driven by curiosity, continuous learning, and the belief that **success is not a stop sign**.
 
 ---
@@ -36,9 +36,25 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
+### Frameworks
+<p>
+    <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
 ### Database
 <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### Architecture
+<p>
+    <img src="https://img.shields.io/badge/High%20Availability-009688?style=for-the-badge&logo=cloudflare&logoColor=white" alt="High Availability"/>
+    <img src="https://img.shields.io/badge/Microservices-2C2C2C?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices"/>
+    <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
 
 ### DevOps & Platforms
